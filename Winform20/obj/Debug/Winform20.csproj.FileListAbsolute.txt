@@ -1,0 +1,11 @@
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\bin\Debug\Winform20.exe.config
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\bin\Debug\Winform20.exe
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\bin\Debug\Winform20.pdb
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.csproj.AssemblyReference.cache
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.Form1.resources
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.Properties.Resources.resources
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.csproj.GenerateResource.cache
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.csproj.CoreCompileInputs.cache
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.exe
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.pdb
+D:\okan hoca ödevleri\OOP_OkanHoca\Winform20\Winform20\obj\Debug\Winform20.Form2.resources
