@@ -1,16 +1,13 @@
 # Adonet-BindingSource_Move-data-transaction
 Data taken from Northwind 
-I create different scenarios. Like take data from;
-view
-stored procedure
-create rollback-transaction
+I create different scenarios. Like take data from view, stored procedure and create rollback-transaction
 
 In the Form2, I create easy shortcut buttons for searching betwwen data. I used BindingSource/Move method
 there are buttons for;
-First Row
-Last Row
-Previous
-Next
+*First Row,
+*Last Row,
+*Previous,
+*Next
 
 ![Screenshot 2023-02-03 193422](https://user-images.githubusercontent.com/102765970/216658382-2b328197-2347-44f2-9ea1-693e9e1a8063.png)
 
